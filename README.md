@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **marcahendrikse@gmail.com**
 
-- 🔍 Working as a Full Stack Engineer for over 9 years I have experience working in the following industries: Aerospace | Defense and Government | Logistics | Analytics
+- 🔍 Working as a Full Stack Engineer for over 9 years I have experience working in the following industries: Aerospace | Defense and Government | Logistics | Analytics | Sustainability
 
 - ⚽🎾🥊🏃‍♂️🏋️‍♂️🏂✈️🚀🚙
 
