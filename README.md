@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next.js**, **Go**, **Rust**, and improving my **Python** skills
 
-- 💬 Ask me about **Aerospace, Real Estate, Logistics, Aerospace, and Soccer**
+- 💬 Ask me about **Aerospace, Real Estate, Logistics, and Soccer**
 
 - 📫 How to reach me **marcahendrikse@gmail.com**
 
